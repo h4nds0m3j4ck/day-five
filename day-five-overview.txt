@@ -1,0 +1,14 @@
+Day Five Topics 
+
+*CSS
+	-Font Styles
+		-Google Fonts
+		-font awesome 
+	
+	-Pseudo Classes 
+		-hover
+		-active
+		-focus
+
+	-Bootstrap
+	

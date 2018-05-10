@@ -1,0 +1,29 @@
+body {
+    text-align: right;
+    font-family: 'Rokkitt', serif;
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+/* link colors */
+a:visited {
+    color: darkslategray;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:active {
+    color: green;
+}
+
+/* text color highlight*/
+#test:hover {
+    color: blue;
+    font-family: 'verdana';
+}
+
+ 
+ 
